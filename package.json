@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-iter-special-log",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create an iterator which computes the base `b` logarithm.",
   "license": "Apache-2.0",
   "author": {
